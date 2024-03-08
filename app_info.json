@@ -1,0 +1,68 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "supportedStores": [
+    {
+      "isAvailable": false,
+      "name": "Google PlayStore",
+      "url": "https://play.google.com/store/apps/details?id=com.jetswift.jetplay"
+    },
+    {
+      "isAvailable": false,
+      "name": "Amazon AppStore",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "OPPO App Market",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "Samsung Galaxy Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "VIVO App Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "Xiaomi GetApps",
+      "url": null
+    }
+  ],
+  "unSupportedStores":[
+    {
+      "isAvailable": false,
+      "name": "Github Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "ApkPure Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "MediaFire Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "Mega Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "DropBox Store",
+      "url": null
+    },
+    {
+      "isAvailable": false,
+      "name": "Firebase Store",
+      "url": null
+    }
+  ]
+}
